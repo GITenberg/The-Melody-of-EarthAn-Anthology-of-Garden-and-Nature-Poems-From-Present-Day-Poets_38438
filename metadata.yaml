@@ -13,6 +13,8 @@ covers:
 - cover_type: generated
   image_path: cover.png
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38438#The-Melody-of-EarthAn-Anthology-of-Garden-and-Nature-Poems-From-Present-Day-Poets
 gutenberg_issued: '2011-12-30'
 gutenberg_type: Text
 identifiers:
