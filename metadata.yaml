@@ -1,0 +1,33 @@
+_repo: The-Melody-of-EarthAn-Anthology-of-Garden-and-Nature-Poems-From-Present-Day-Poets_38438
+_version: 0.1.0
+contributor:
+  compiler:
+    agent_name: Richards, Waldo, Mrs.
+    aliases:
+    - Richards, Mrs. Waldo
+    - Richards, Gertrude Moore
+    deathdate: 1927
+    gutenberg_agent_id: '35454'
+    url: http://www.gutenberg.org/2009/agents/35454
+covers:
+- cover_type: generated
+  image_path: cover.png
+description: ''
+gutenberg_issued: '2011-12-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38438'
+  lccn: '18007619'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English poetry'
+- !lcc 'PN'
+- !lcsh 'Nature in literature'
+- !lcsh 'Gardens -- Poetry'
+title: 'The Melody of Earth
+
+  An Anthology of Garden and Nature Poems From Present-Day Poets'
+url: http://www.gutenberg.org/ebooks/38438
